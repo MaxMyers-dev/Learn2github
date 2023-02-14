@@ -1,4 +1,4 @@
 # Learn2github
-Repo for leaning
+Repo for learning
 
 I made a small change here
